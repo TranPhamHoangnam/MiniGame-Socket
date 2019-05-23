@@ -1,0 +1,19 @@
+.wrapper{
+    width: 700px;
+    margin: auto;
+}
+#infomation{
+    border: solid 1px gray;
+    margin: 10px;
+}
+#txtHoTen, #txtEmail, #txtSoDT{
+    margin: 10px;
+    padding: 5px;
+}
+.hocvien{
+    border-bottom: solid 1px gray;
+}
+.hang1 span{
+    color: blue;
+    font-weight: bold;
+}
